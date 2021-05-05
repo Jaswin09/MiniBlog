@@ -1,4 +1,4 @@
 module.exports={
-    Mongouri:process.env.Mongouri,
-    Jwt_sec: process.env.Jwt_sec
+    Mongouri:process.env.mongouri,
+    Jwt_sec: process.env.jwt_sec
 }
